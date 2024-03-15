@@ -1,7 +1,7 @@
 import express from 'express';
 
 import Connection from './database/db.js';
-import Student from './models/Studentlist.js';
+// import Student from './models/Studentlist.js';
 import router from './Routes/student.js';
 import cors from "cors";
 
